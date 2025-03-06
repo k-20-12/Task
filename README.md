@@ -3,7 +3,7 @@ Task Overview:
 1. Frontend (React):
 
    Create a React app with a form to input a name and display a greeting.
-   Use CSS animations to create a flower animation effect when the "Get Greeting" button is clicked and cnages in 
+   Use CSS animations to create a flower animation effect when the "Get Greeting" button is clicked and color changes in 
    background.
    Make an API request to a backend to fetch the greeting message.
 
